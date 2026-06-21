@@ -10,7 +10,8 @@ I am an architectural designer interested in computational design and developing
 A streamlined canvas utility for Grasshopper that eliminates tedious wire dragging, letting you connect and disconnect nodes instantly with simple keyboard modifiers.
 
 * **Canvas Automation:** Connect or sever node streams with quick `Ctrl + Click` gestures.
-* **Open Source:** Built using C# and the RhinoCommon API.
+* Sever existing connections with a swift `Ctrl + Shift + Click` smart disconnect.
+* **Open Source:** Built in Visual studio using C# and the RhinoCommon API.
 
 ---
 
