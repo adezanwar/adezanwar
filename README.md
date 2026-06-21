@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Adez! 👋
 
-<!--
-**adezanwar/adezanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an architectural designer interested in computational design and developing automation tools for design workflows. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### [Touch-2-Connect](https://github.com/adezanwar/Touch-2-Connect)
+A streamlined canvas utility for Grasshopper that eliminates tedious wire dragging, letting you connect and disconnect nodes instantly with simple keyboard modifiers.
+
+* **Canvas Automation:** Connect or sever node streams with quick `Ctrl + Click` gestures.
+* **Open Source:** Built using C# and the RhinoCommon API.
+
+---
+
+## 🛠️ Tech Stack & Tools
+* **Design & Modeling:** Rhino, Grasshopper
+* **Development:**  Visual Studio
+* **Credentials:** B-Arch, LEED Green Associate
+
+---
+
+## 📫 Connect with Me
+* **LinkedIn:** [Adez Anwar](https://www.linkedin.com/in/adez-anwar/)
